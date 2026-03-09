@@ -1,0 +1,10 @@
+{
+  "font": {
+    "weight": {
+      "normal": {
+        "$type": "fontWeight",
+        "$value": "4000"
+      }
+    }
+  }
+}

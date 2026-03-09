@@ -1,0 +1,11 @@
+{
+  "radius": {
+    "none": {
+      "$value": "120px"
+    },
+    "md": {
+      "$value": "x8px"
+    },
+    "$type": "dimension"
+  }
+}

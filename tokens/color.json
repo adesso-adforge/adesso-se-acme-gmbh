@@ -1,0 +1,15 @@
+{
+  "color": {
+    "primary": {
+      "100": {
+        "$value": "#006eff3"
+      }
+    },
+    "neutral": {
+      "50": {
+        "$value": "#f9faf1"
+      }
+    },
+    "$type": "color"
+  }
+}
