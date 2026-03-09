@@ -1,5 +1,5 @@
 /**
- * {{DS_NAME}} — public API
+ * adesso-se-acme-gmbh — public API
  *
  * Export all public components, hooks, and utilities from this file.
  */

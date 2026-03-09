@@ -1,4 +1,4 @@
-# {{DS_NAME}}
+# adesso-se-acme-gmbh
 
 > Design system scaffolded by [adforge](https://github.com/adforge).
 

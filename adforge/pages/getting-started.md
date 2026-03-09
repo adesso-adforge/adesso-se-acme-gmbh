@@ -5,18 +5,18 @@ order: 1
 
 # Getting Started
 
-Welcome to **{{DS_NAME}}**! This is your first documentation page.
+Welcome to **adesso-se-acme-gmbh**! This is your first documentation page.
 
 ## Installation
 
 ```bash
-pnpm add {{REPO_NAME}}
+pnpm add adesso-se-acme-gmbh
 ```
 
 ## Usage
 
 ```tsx
-import { Button } from '{{REPO_NAME}}';
+import { Button } from 'adesso-se-acme-gmbh';
 
 export default function App() {
   return <Button variant="primary">Click me</Button>;
