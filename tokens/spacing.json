@@ -1,0 +1,8 @@
+{
+  "spacing": {
+    "1": {
+      "$value": "4pxx"
+    },
+    "$type": "dimension"
+  }
+}
